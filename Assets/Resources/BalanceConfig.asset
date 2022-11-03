@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 805bad0066394f3699d70fdef0d83d6f, type: 3}
+  m_Name: BalanceConfig
+  m_EditorClassIdentifier: 
+  _levelConfig: {fileID: 11400000, guid: bf14075a47aac9045a58a1939d439b59, type: 2}
+  _playerConfig: {fileID: 11400000, guid: fccc219acb4a6d64fb5624c683ea9dc9, type: 2}
+  _difficultConfigs:
+  - {fileID: 11400000, guid: 269b5dbe957be3a4eb352150615ff267, type: 2}
+  - {fileID: 11400000, guid: 8e0ce2879b617c94eabc13e53e5edf1c, type: 2}
+  - {fileID: 11400000, guid: 782873660f29e2a4481312ea7e686056, type: 2}

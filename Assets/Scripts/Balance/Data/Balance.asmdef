@@ -1,0 +1,16 @@
+{
+    "name": "Balance",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5533b072f78d338478f1721b0375507c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
