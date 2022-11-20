@@ -30,6 +30,8 @@ namespace Core
 
         public void Restart()
         {
+            List<int> values = new List<int>();
+            Span<int> span = new Span<int>(values);
             _state.TryCount += new Amount(1);
             foreach (var dropable in _dropables)
             {
